@@ -8,6 +8,6 @@ Construindo caminho em direção a **SRE / DevOps**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-souto)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:joaosouto0@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://soutotech.github.io)
+[![Portfólio](https://img.shields.io/badge/Portfólio-111827?style=for-the-badge)](https://soutotech.github.io)
 
 </div>
