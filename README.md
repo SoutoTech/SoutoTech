@@ -50,15 +50,3 @@ Construindo caminho em direção a **SRE / DevOps**.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SoutoTech&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoutoTech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)"
-
-</div>
-
----
